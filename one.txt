@@ -1,3 +1,5 @@
 Hi.
 How are You ?
 hello.
+Another feature
+ By pressing x can cancel the fight
